@@ -23,9 +23,7 @@ with open(linkedin_paramters_file_path) as read_file:
 authorization_base_url =  linkedin_parameters['authorization_base_url']
 #token_url = 'https://www.linkedin.com/oauth/v2/accessToken'
 token_url = linkedin_parameters['token_url']
-#client_id = '81czqzwkuv00m2'
 client_id  = linkedin_parameters['client_id']
-#client_secret = '1taiQYu9VS91GrOF'
 client_secret = linkedin_parameters['client_secret']
 session_key = linkedin_parameters['session_key']
 session_password = linkedin_parameters['session_password']
