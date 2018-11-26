@@ -1,0 +1,48 @@
+1543240482307	geckodriver	INFO	Listening on 127.0.0.1:52477
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543240483855	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543240623560	geckodriver	INFO	Listening on 127.0.0.1:56500
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543240624482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543240864402	geckodriver	INFO	Listening on 127.0.0.1:45101
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543240865385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543241858201	geckodriver	INFO	Listening on 127.0.0.1:49831
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543241860213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543242394114	geckodriver	INFO	Listening on 127.0.0.1:37121
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543242395803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543242838319	geckodriver	INFO	Listening on 127.0.0.1:46217
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543242839434	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543242992633	geckodriver	INFO	Listening on 127.0.0.1:58521
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543242994186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1543247428694	geckodriver	INFO	Listening on 127.0.0.1:58002
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1543247518786	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified

@@ -1,0 +1,19 @@
+{
+"session_key" : "XXXXXXX" ,
+"session_password" : "XXXXXXXXXXX" ,
+"authorization_base_url" : "https://www.linkedin.com/oauth/v2/authorization",
+"token_url" : "https://www.linkedin.com/oauth/v2/accessToken",
+"client_id" : "XXXXXXXXXXXXXXX",
+"client_secret" : "XXXXXXXXXXXXXXX",
+"ad_analytics_api_url_creative_desc" : "https://api.linkedin.com/v2/adCreativesV2/{}",
+"ad_analytics_api_url_account_desc" : "https://api.linkedin.com/v2/adAccountsV2/{}",
+"ad_analytics_api_url_creative_shares_url":"https://api.linkedin.com/v2/shares/{}",
+"ad_analytics_api_url_all_creatives" : "https://api.linkedin.com/v2/adCreativesV2?q=search&start={}&count=10",
+"hawq_conn_string" : "host='hdp-stg-mst2.vmware.com' dbname='hdw_hawq' user='hawq_etl' password='hawq_etl'",
+"start_day":"1",
+"start_month":"5",
+"start_year":"2018",
+"end_day":"1",
+"end_month":"11",
+"end_year":"2018"
+}
